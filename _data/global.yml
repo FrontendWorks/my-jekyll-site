@@ -1,0 +1,9 @@
+# Site settings
+title: Codonomics
+email: karthik@codonomics.com
+description: > # this means to ignore newlines until "baseurl:"
+  Agile/Lean-Startup Consulting for business agility and software craftsmanship
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://codonomics.in" # the base hostname & protocol for your site
+twitter_username: kartzontech
+github_username:  karthiks
