@@ -7,3 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://codonomics.in" # the base hostname & protocol for your site
 twitter_username: kartzontech
 github_username:  karthiks
+linkedin_url: https://www.linkedin.com/in/karthiksirasanagandla
+googleplus_url: https://plus.google.com/u/0/+KarthikSirasanagandla
+twitter_url: https://twitter.com/kartzontech
