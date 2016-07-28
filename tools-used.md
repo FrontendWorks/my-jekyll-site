@@ -19,3 +19,9 @@ permalink: /tools/
 	* jquery.swipebox.js
 	* move-top.js
 	* easing.js
+	* [IconFinder.com](https://www.iconfinder.com)
+	* [SpriteCow.com](www.spritecow.com)
+	* [InstantSprite.com](http://instantsprite.com/)
+
+* **Editor**
+	* [SublimeText](https://www.sublimetext.com/)
