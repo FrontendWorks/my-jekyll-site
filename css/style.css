@@ -106,6 +106,10 @@ span.glyphicon.glyphicon-earphone.phone {
 	border:none;
 
 }
+.social-icons-top ul li a.linkedin{
+	background:url('../images/img-sprite.png') no-repeat 0px 0px;
+
+}
 .social-icons-top ul li a.google{
 	background:url('../images/img-sprite.png') no-repeat -50px 0px;
 
@@ -399,30 +403,28 @@ span.glyphicon.glyphicon-earphone.phone {
 .team ul li a {
     width: 40px;
     height: 40px;
-    background: url('../images/img-sprite.png') no-repeat -160px 0px;
+    background: url('../images/img-sprite2.png') no-repeat -160px 0px;
     display: inline-block;
     border: none;
     background-size: 400px;
 }
-.team ul li a.facebook {
-    background: url('../images/img-sprite.png') no-repeat -200px 0px;
-    background-size: 400px;
+.team ul li a.twitter {
+    background: url('../images/img-sprite.png') no-repeat -95px 0px;
 }
-.team ul li a.pinterest {
-    background: url('../images/img-sprite.png') no-repeat -240px 0px;
-    background-size: 400px;
+.team ul li a.linkedin {
+    background: url('../images/img-sprite.png') no-repeat 0px 0px;
+}
+.team ul li a.google {
+    background: url('../images/img-sprite.png') no-repeat -50px 0px;
 }
 .team ul li a.twitter:hover {
-    background: url('../images/img-sprite.png') no-repeat -160px -43px;
-    background-size: 400px;
+    background:url('../images/img-sprite2.png') no-repeat -95px 0px;
 }
-.team ul li a.facebook:hover {
-    background: url('../images/img-sprite.png') no-repeat -200px -43px;
-    background-size: 400px;
+.team ul li a.linkedin:hover {
+    background:url('../images/img-sprite2.png') no-repeat 0px 0px;
 }
-.team ul li a.pinterest:hover {
-    background: url('../images/img-sprite.png') no-repeat -240px -43px;
-    background-size: 400px;
+.team ul li a.google:hover {
+    background:url('../images/img-sprite2.png') no-repeat -50px 0px;
 }
 /*-- //Team--*/
 

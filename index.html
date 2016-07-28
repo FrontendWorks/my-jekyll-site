@@ -118,109 +118,11 @@ layout: default
 		</div>
 		<!-- //Services -->
 		
-		<!-- Team -->
-		<div class="team" id="team">
-			<div class="container">
-				<div class="theader">
-					<h3>OUR AMAZING TEAM</h3>
-					<h6>All the Lorem Ipsum generators </h6>
-			   </div>
-				<div class="col-md-4 col-sm-4 team-grid team-grid1">
-					<img src="images/t1.png" alt=" " /> 
-					<h5>Stewart Drick</h5>
-					<p>Business analyst for the past 10 years</p>
-					<ul>
-					    <li><a class="twitter" href="#"></a></li>
-						<li><a class="facebook" href="#"></a></li>
-						<li><a class="pinterest" href="#"></a></li>
-					</ul>
-				</div>
-				<div class="col-md-4 col-sm-4 team-grid team-grid2">
-				 <img src="images/t2.png" alt=" " />
-					<h5>Andy Smith</h5>
-					<p>Business analyst for the past 10 years</p>
-					<ul>
-					    <li><a class="twitter" href="#"></a></li>
-						<li><a class="facebook" href="#"></a></li>
-						<li><a class="pinterest" href="#"></a></li>
-					</ul>
-				</div>
-				<div class="col-md-4 col-sm-4 team-grid team-grid3">
-				 <img src="images/t3.png" alt=" " />
-					 <h5>Jessica Jennifer</h5>
-					<p>Business analyst for the past 10 years</p>
-					 <ul>
-						<li><a class="twitter" href="#"></a></li>
-						<li><a class="facebook" href="#"></a></li>
-						<li><a class="pinterest" href="#"></a></li>
-					 </ul>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-		<!-- //Team -->
-		
-		<!-- Testimonials -->
-		<div class="testimonials" id="testimonials">
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-			<!-- Wrapper for slides -->
-				<div class="carousel-inner" role="listbox">
-					<div class="item active">
-						<img src="images/testimonialsbg.jpg" alt="Chania" />
-						<div class="carousel-caption">
-							<div class="hangouts">
-								<img src="images/hangouts.png" alt=" " />
-							</div>
-							<p>It was a pleasure to work with the guys ok knight studio.They made sure we were well fed all the time.</p> 
-							<div class="person">
-								<img src="images/te1.png" alt=" " />
-								<h5>Lora Kristan</h5>
-								<h6>License to drink inc..</h6>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<img src="images/testimonialsbg.jpg" alt="Chania" />
-						<div class="carousel-caption">
-							<div class="hangouts">
-								<img  src="images/hangouts.png" alt=" " />
-							</div>
-							<p> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p> 
-							<div class="person">
-								<img src="images/te2.png" alt=" " />
-								<h5>Kaira Luptin</h5>
-								<h6>License to drink inc..</h6>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<img src="images/testimonialsbg.jpg" alt="Chania" />
-						<div class="carousel-caption">
-							<div class="hangouts">
-								<img  src="images/hangouts.png" alt=" "  />
-							</div>
-							<p>Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p> 
-							<div class="person">
-								<img src="images/te3.png" alt=" " />
-								<h5>Prince Dennis</h5>
-								<h6>License to drink inc..</h6>
-							</div>
-						</div>
-					</div>
-				</div>
 
-				<!-- Left and right controls -->
-				<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-				</a>
-			</div>
-		</div>
-		<!-- //Testimonials -->
+		
+{% include testimonial.html %}
+
+{% include team.html %}
 
 {% comment %}
 {% include portfolio.html %}
