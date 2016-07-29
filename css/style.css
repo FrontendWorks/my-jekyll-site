@@ -292,6 +292,15 @@ span.glyphicon.glyphicon-earphone.phone {
 	width:60%;
 	margin:0px 0px 30px 455px;
 }
+
+.why-us-intro{
+	//width: 80%;
+	margin: 10px;
+}
+.why-us-intro p{
+	margin: 10px;
+	line-height: 25px;
+}
 /*-- //About--*/
 
 /*-- Services--*/
