@@ -612,31 +612,28 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 .contact ul li a{
 	width:35px;
-	height:35px;
-	background:url('../images/img-sprite.png') no-repeat -358px -8px;
+	height:45px;
+	background:url('../images/img-sprite2.png') no-repeat 0px 0px;
 	display:inline-block;
 	border:none;
-
+}
+.contact ul li a.linkedin{
+	background:url('../images/img-sprite.png') no-repeat 0px 0px;
 }
 .contact ul li a.google{
-	background:url('../images/img-sprite.png') no-repeat -407px -8px;
-
+	background:url('../images/img-sprite.png') no-repeat -50px 0px;
 }
-.contact ul li a.pinterest{
-	background:url('../images/img-sprite.png') no-repeat -458px -8px;
-
+.contact ul li a.twitter{
+	background:url('../images/img-sprite.png') no-repeat -100px 0px;
 }
 .contact ul li a.linkedin:hover{
-	background:url('../images/img-sprite2.png') no-repeat -358px -8px;
-
+	background:url('../images/img-sprite2.png') no-repeat 0px 0px;
 }
 .contact ul li a.google:hover{
-	background:url('../images/img-sprite2.png') no-repeat -407px -8px;
-
+	background:url('../images/img-sprite2.png') no-repeat -50px 0px;
 }
-.contact ul li a.pinterest:hover{
-	background:url('../images/img-sprite2.png') no-repeat -458px -8px;
-
+.contact ul li a.twitter:hover{
+	background:url('../images/img-sprite2.png') no-repeat -100px 0px;
 }
 input[type="text"]{
 	padding:5px;
