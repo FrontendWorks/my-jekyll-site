@@ -292,15 +292,6 @@ span.glyphicon.glyphicon-earphone.phone {
 	width:60%;
 	margin:0px 0px 30px 455px;
 }
-.aimg:after {
-    content: '';
-    background:#7BC475;
-    width: 3px;
-    height: 38%;
-    position: absolute;
-    bottom: -40%;
-    left: 50%;
-}
 /*-- //About--*/
 
 /*-- Services--*/
