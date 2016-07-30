@@ -2,11 +2,12 @@
 title: Codonomics
 email: karthik@codonomics.com
 description: > # this means to ignore newlines until "baseurl:"
-  Agile/Lean-Startup Consulting for business agility and software craftsmanship
+  Agile, Lean-Startup and Software Craftsmanship Consulting for business agility.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://codonomics.in" # the base hostname & protocol for your site
 twitter_username: kartzontech
 github_username:  karthiks
+blog_url: http://blog.codonomics.com/
 linkedin_url: https://www.linkedin.com/in/karthiksirasanagandla
 googleplus_url: https://plus.google.com/u/0/+KarthikSirasanagandla
 twitter_url: https://twitter.com/kartzontech
