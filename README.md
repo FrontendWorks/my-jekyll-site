@@ -4,7 +4,7 @@
 
 The following things are done to improve the performance of the site
 * Improve Website Load Times Using Progressive JPEGs. Use `-interlace` option in ImageMagic's `convert` command for this.
-* Reduce the banner image size to a third for faster loading. You can run the following command in mac's commandline to reduce the image size (ImageMagic should be imstalled before this.) 
+* Compress images for faster page loading. You can run the following command in mac's commandline to reduce the image size (ImageMagic should be imstalled before this.) 
 `convert -strip -interlace Plane -gaussian-blur 0.5 -quality 25 -fuzz 40% banner.jpg banner5.jpg`
 
 ## References for further reading
