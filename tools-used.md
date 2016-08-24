@@ -25,3 +25,6 @@ permalink: /tools/
 
 * **Editor**
 	* [SublimeText](https://www.sublimetext.com/)
+
+* **Images**
+	* ImageMagic command line utility (to reduce the file size of images)
