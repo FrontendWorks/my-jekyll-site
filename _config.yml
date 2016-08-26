@@ -77,3 +77,8 @@ kramdown:
 
 
 include: ['_pages']
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed

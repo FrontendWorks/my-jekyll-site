@@ -1,5 +1,16 @@
 # Codonomics Web-Site
 
+## TODOs
+
+* Minify and Combine CSS
+* Minify and Combine JS
+* Enable GZip compression
+* Explore Asset pipelines for Jekyll using (jekyll-assets or anything else)
+* Explore using http://fontello.com/ instead of fontawesome or other font files, to reduce footprint and increase page speed
+* Leverage Browser cacheing
+* Remove Unused CSS Rules
+
+
 ## Performance Improvements
 
 The following things are done to improve the performance of the site
