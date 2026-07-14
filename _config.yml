@@ -15,7 +15,7 @@ data_dir: ./_data
 
 # Handling Reading
 safe:         false
-include:      [".htaccess"]
+include:      [".htaccess", ".well-known", "_pages"]
 exclude:      ["README.md", "README_DEV.md", "Gemfile", "Gemfile.lock", ".ruby-version"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
@@ -77,7 +77,7 @@ kramdown:
     coderay_css:               style
 
 
-include: ['_pages']
+# include list consolidated on line 18
 
 # Assets
 sass:
